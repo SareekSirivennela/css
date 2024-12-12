@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    font-family: Roboto,sans-serif,Arial;
+    font-size: large;
+    color: #000;
+}
+.container{
+    width: 1300px;
+    margin: 0;
+}
+.header{
+    background-color: aqua;
+    padding: 6px;
+}
+.header b{
+    background-color: blanchedalmond;
+    color: blueviolet;
+    padding: 20px;
+    font-size: large;
+}
+.header marquee{
+    font-size:20px;
+    color: blue;
+    width: 80;
+}
